@@ -7,8 +7,6 @@ In this project the user can visit the website, register themselves, and log in 
 The project has an admin panel where the administrator can login and add categories and products to the store. Additionally, he has the ability to add or update the categories or products based on demand or to completely eliminate existing ones. The administrator is also allowed to view all products ordered by user and modify the order status. Additionally, has the ability to delete users who are engaging in deceptive behavior and can add another admin to share responsibilities.
 One of the best features of the project is the mailing system. The user receives an email upon successfully registering on the website, and they also receive an email confirming their order of any products or when those products have been shipped from the store. In addition, the user receives an OTP for password reset in the event that they forget their password and want to change it.
 
-Note: For demonstration purposes only, the payment page was developed; it is not completely integrated with any payment gateway. Therefore, the demo orders will be placed for the time being with any payment card information.
-
 ### Technologies used:-
 1. Front-End Development:
 - HTML
